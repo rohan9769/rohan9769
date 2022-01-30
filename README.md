@@ -30,8 +30,8 @@
 <h3>Below are my active contribution and commit stats!</h3>
 
 <a href="https://github.com/rohan9769">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohan9769&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan9769&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohan9769&theme=synthwave&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan9769&theme=synthwave&layout=compact" />
 </a>
 
 <br/>
