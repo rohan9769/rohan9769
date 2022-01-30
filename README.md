@@ -1,4 +1,4 @@
-### Hi there I'm Rohan 👋
+### Hi there I'm Rohan Nayak 👋
 
 <!--
 **rohan9769/rohan9769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
