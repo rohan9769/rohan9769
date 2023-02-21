@@ -13,15 +13,18 @@
   <h4>Programming Languages:</h4>
   <ul>
     <li>Python</li>
+  <li>Golang</li>
+  <li>C</li>
     <li>JavaScript</li>
     <li>Java</li>
+  
   </ul>
   <h4>Tech Stack:</h4>
   <ul>
-    <li>Backend : Django, Flask, ExpressJS, Springboot, Spring, Hibernate, NodeJS.</li>
-    <li>Frontend : ReactJS, VanillaJS, HTML5, CSS3,Tailwind CSS,Bootstrap,Material UI.</li>
+    <li>Backend : Django, Flask, ExpressJS, Springboot, Spring, Hibernate, NodeJS , Go.</li>
+    <li>Frontend : ReactJS, VanillaJS, HTML5, CSS3,Tailwind CSS,Bootstrap,Material UI , VueJS , NextJS.</li>
     <li>Database : MySQL,MongoDB,NoSQL,MariaDB,Postgres,SQLite3,T-SQL,Oracle 11g.</li>
-    <li>Cloud : AWS,GCP.</li>
+    <li>Cloud : AWS,GCP,Azure</li>
     <li>Version Control : Git,GitHub.</li>
     <li>Mobile-Technologies : React-Native,Flutter</li>
   </ul>
