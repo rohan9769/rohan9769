@@ -44,7 +44,6 @@
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/rsnayak21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rohan Nayak-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/roncr_7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-roncr__7-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nayak.ro@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Email-nayak.ro@northeastern.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 ![Visitor Count](https://profile-counter.glitch.me/rohan9769/count.svg)
